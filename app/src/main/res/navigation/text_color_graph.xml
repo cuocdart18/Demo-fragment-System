@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text_color_graph"
+    app:startDestination="@id/textColorFragment">
+
+    <fragment
+        android:id="@+id/textColorFragment"
+        android:name="com.example.myapplicationnnn.fragments.TextColorFragment"
+        android:label="TextColorFragment"
+        tools:layout="@layout/fragment_text_color" />
+</navigation>

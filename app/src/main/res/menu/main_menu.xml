@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/text_color_graph"
+        android:title="@string/text_color_item" />
+    <item
+        android:id="@+id/first_graph"
+        android:title="@string/first_menu_item" />
+    <item
+        android:id="@+id/second_graph"
+        android:title="@string/second_menu_item" />
+</menu>

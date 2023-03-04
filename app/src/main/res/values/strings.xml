@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Applicationnnn</string>
+    <string name="text_color_item">Text color</string>
+    <string name="first_menu_item">First menu</string>
+    <string name="second_menu_item">Second menu</string>
 </resources>
